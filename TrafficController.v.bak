@@ -1,0 +1,3 @@
+module TrafficController(input wire Ta, Tb, clk, rst, output wire [2:0] La, Lb);
+
+endmodule
